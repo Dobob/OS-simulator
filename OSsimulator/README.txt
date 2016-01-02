@@ -18,6 +18,7 @@ NOTE:
 			4. Used process IDs are not recycled!
 			5. Disk scheduling uses CLOOK algorithm
 			6. CPU scheduling is round robin.
+			7. Memory management through segmentation
 			
 			
 COMMANDS:
