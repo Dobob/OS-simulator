@@ -1,4 +1,4 @@
-Wei Shi's CSCI340 README:
+Wei Shi's OS simulator README:
 
 	
 			1. Open terminal. 
@@ -11,10 +11,9 @@ Wei Shi's CSCI340 README:
 
 NOTE:
 
-			1. Memory is compacted after every termination and an eligible process from pool is selected.
-			2. Process and device IDs start at 1!
-			3. Cylinders start at 0!
-			4. Uninitialized processes have PID 0!
+			1. Process and device IDs start at 1!
+			2. Cylinders start at 0!
+			3. Uninitialized processes have PID 0!
 			   Therefore if a Segment has belongs to a "process" with PID 0, it is a hole.
-			5. Used process IDs are not recycled!
+			4. Used process IDs are not recycled!
 
