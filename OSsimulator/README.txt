@@ -1,4 +1,4 @@
-Wei Shi's OS simulator README:
+Wei Shi's simple terminal-based OS simulator README:
 
 	
 			1. Open terminal. 
