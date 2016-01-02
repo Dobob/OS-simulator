@@ -16,4 +16,6 @@ NOTE:
 			3. Uninitialized processes have PID 0!
 			   Therefore if a Segment has belongs to a "process" with PID 0, it is a hole.
 			4. Used process IDs are not recycled!
+			5. Disk scheduling uses CLOOK algorithm
+			6. CPU scheduling is round robin.
 
