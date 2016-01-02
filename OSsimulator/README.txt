@@ -18,4 +18,19 @@ NOTE:
 			4. Used process IDs are not recycled!
 			5. Disk scheduling uses CLOOK algorithm
 			6. CPU scheduling is round robin.
+			
+			
+COMMANDS:
+
+			S- Enter snapshot mode
+				m- print memory
+				p- print printer queue
+				d- print disk queue
+				c- print CD/RW queue
+				r- print ready queue
+				
+			A- Add new process
+			T- End current CPU time slice
+			t- Terminate current running process
+			
 
