@@ -5,7 +5,7 @@ Wei Shi's simple terminal-based OS simulator README:
 			2. Enter into the directory with this README.txt file and Makefile. 
 			3. Type make clean(to delete old object files) just in case.
 			2. Type make all.
-			3. The executable will be in /bin/run.me
+			3. The executable will be in "/bin/run.me".
 
 			Input file: None
 
