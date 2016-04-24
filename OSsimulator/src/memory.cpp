@@ -146,7 +146,6 @@ void memory::moveSegmentsUp()
 	curItr = mem_.begin();
 	firstHole = getFirstHole(mem_);
 
-	//TODO: 0. This loop is BUGGED!
 	//This for-loop fills up holes by moving segments "upward" or toward lower memory
 	for(; curItr != mem_.end(); ++curItr)
 	{
